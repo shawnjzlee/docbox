@@ -52,7 +52,7 @@
     "remark": "^8.0.0",
     "remark-html": "^7.0.0",
     "remark-slug": "^5.0.0",
-    "unist-util-select": "^1.3.0",
+    "unist-util-select": "^2.0.0",
     "unist-util-visit": "^1.0.0"
   },
   "devDependencies": {
